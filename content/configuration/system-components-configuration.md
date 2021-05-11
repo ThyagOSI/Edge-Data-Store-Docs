@@ -11,7 +11,7 @@ The default _System_Components.json_ file for the System component contains the 
 [
   {
     "ComponentId": "Storage",
-    "ComponentType": "EDS.Component"
+    "ComponentType": "Storage"
   }
 ]
 ```
